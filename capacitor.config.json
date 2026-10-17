@@ -1,0 +1,6 @@
+{
+  "appId": "app.motores.protecciones",
+  "appName": "Protecciones Motores",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
